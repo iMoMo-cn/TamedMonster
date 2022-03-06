@@ -1,0 +1,69 @@
+#creativeTab
+#itemGroup.tab_name=Tab Name
+itemGroup.friendly_monster=Friendly Monster
+
+
+#item
+#item.item_name.name=item name
+#item.item_name.desc=item desc
+#item.item_name_meta.name=item name
+item.monster_mixture.name=Monster Mixture
+item.monster_stew.name=Monster Stew
+item.monster_stew.desc=§oIs this really edible？
+item.nether_mixture.name=Nether Mixture
+item.nether_stew.name=Nether Stew
+item.nether_stew.desc=§oIt feels strange after eating...
+item.monster_essence.name=Monster Essence
+
+
+#entity
+#entity.entity_name.name=entity name
+#entity.Villager.modid.Villager_name=villager name
+entity.zombie_fm.name=Tamed Zombie
+entity.skeleton_fm.name=Tamed Skeleton
+entity.spider_fm.name=Tamed Spider
+entity.creeper_fm.name=Tamed Creeper
+entity.husk_fm.name=Tamed Husk
+entity.stray_fm.name=Tamed Stray
+entity.cave_spider_fm.name=Tamed Cave Spider
+entity.enderman_fm.name=Tamed Enderman
+entity.slime_fm.name=Tamed Slime
+
+entity.wither_skeleton_fm.name=Tamed Wither Skeleton
+entity.zombie_pigman_fm.name=Tamed Zombie Pigman
+entity.magma_cube_fm.name=Tamed Magma Cube
+entity.blaze_fm.name=Tamed Blaze
+
+#block
+#tile.block_name.name=block name
+
+#effect
+#effect.effect_name=effect name
+effect.taming=Taming
+effect.monster_taming=Monster Taming
+effect.nether_taming=Nether Monster Taming
+
+#potion
+#potion.effect.potion_name=potion name
+#splash_potion.effect.potion_name=Splash Potion of potion name
+#lingering_potion.effect.potion_name=Lingering Potion of potion name
+potion.effect.monster_taming=Monster Taming
+splash_potion.effect.monster_taming=Splash Potion of Monster Taming
+lingering_potion.effect.monster_taming=Lingering Potion of Monster Taming
+
+potion.effect.nether_taming=Nether Monster Taming
+splash_potion.effect.nether_taming=Splash Potion of Nether Monster Taming
+lingering_potion.effect.nether_taming=Lingering Potion of Nether Monster Taming
+
+#tipped arrow
+#tipped_arrow.effect.potion_name=Arrow of name
+tipped_arrow.effect.monster_taming=Arrow of Monster Taming
+tipped_arrow.effect.nether_taming=Arrow of Nether Monster Taming
+
+#advancements
+#advancements.modid.root.title=root name
+#advancements.modid.root.description=root description
+#advancements.modid.sub_name.title=sub name
+#advancements.modid.sub_name.description=sub description
+
+
