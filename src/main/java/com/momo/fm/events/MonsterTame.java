@@ -40,6 +40,8 @@ public class MonsterTame {
             entityFM.setCustomNameTag(entityLivingBaseIn.getCustomNameTag());
         }
 
+        TameInteract.TameEffect(true, entityLivingBaseIn);
+
         if(!entityLivingBaseIn.world.isRemote)
         {
             entityLivingBaseIn.world.spawnEntity(entityFM);

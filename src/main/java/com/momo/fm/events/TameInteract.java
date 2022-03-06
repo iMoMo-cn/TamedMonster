@@ -58,7 +58,6 @@ public class TameInteract {
         Random rand = new Random();
         if (rand.nextInt(5) == 0)
         {
-            TameEffect(true, target);
             MonsterTame.SpawnFM(target);
         }
         else TameEffect(false, target);
@@ -89,7 +88,7 @@ public class TameInteract {
     {
         Random rand = new Random();
 
-        EnumParticleTypes enumparticletypes = EnumParticleTypes.HEART;
+        EnumParticleTypes enumparticletypes = EnumParticleTypes.VILLAGER_HAPPY;
 
         if (!play)
         {
