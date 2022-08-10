@@ -14,8 +14,8 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 
 
 version = "1.0"
-group = "com.MoMoframework.fm" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "fm"
+group = "com.MoMoframework.tamedmonster" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "tamedmonster"
 
 sourceCompatibility = targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 compileJava {
