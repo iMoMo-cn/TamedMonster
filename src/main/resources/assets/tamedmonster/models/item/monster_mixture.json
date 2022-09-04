@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "fm:items/monster_mixture"
+    "layer0": "tamedmonster:items/monster_mixture"
   }
 }

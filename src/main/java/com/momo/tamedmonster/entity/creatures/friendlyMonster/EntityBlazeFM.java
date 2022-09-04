@@ -41,11 +41,8 @@ public class EntityBlazeFM extends EntityNetherFriendlyMonster {
                 this.world.playSound(this.posX + 0.5D, this.posY + 0.5D, this.posZ + 0.5D, SoundEvents.ENTITY_BLAZE_BURN, this.getSoundCategory(), 1.0F + this.rand.nextFloat(), this.rand.nextFloat() * 0.7F + 0.3F, false);
             }
 
-            for (int i = 0; i < 2; ++i)
-            {
-                if(this.isChild()) smoke = EnumParticleTypes.SMOKE_NORMAL;
-                this.world.spawnParticle(smoke, this.posX + (this.rand.nextDouble() - 0.5D) * (double)this.width, this.posY + this.rand.nextDouble() * (double)this.height, this.posZ + (this.rand.nextDouble() - 0.5D) * (double)this.width, 0.0D, 0.0D, 0.0D);
-            }
+            if(this.isChild()) smoke = EnumParticleTypes.SMOKE_NORMAL;
+            this.world.spawnParticle(smoke, this.posX + (this.rand.nextDouble() - 0.5D) * (double)this.width, this.posY + this.rand.nextDouble() * (double)this.height, this.posZ + (this.rand.nextDouble() - 0.5D) * (double)this.width, 0.0D, 0.0D, 0.0D);
         }
 
         super.onLivingUpdate();

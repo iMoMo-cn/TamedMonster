@@ -1,6 +1,6 @@
-package com.momo.fm.init;
+package com.momo.tamedmonster.init;
 
-import com.momo.fm.util.Reference;
+import com.momo.tamedmonster.util.Reference;
 import net.minecraftforge.event.AnvilUpdateEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;

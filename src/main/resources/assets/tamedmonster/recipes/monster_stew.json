@@ -3,7 +3,7 @@
   "ingredients":
   [
     {
-      "item": "fm:monster_mixture"
+      "item": "tamedmonster:monster_mixture"
     },
     {
       "item": "minecraft:bowl"
@@ -13,7 +13,7 @@
     }
   ],
   "result": {
-    "item": "fm:monster_stew",
+    "item": "tamedmonster:monster_stew",
     "count": 1
   }
 }

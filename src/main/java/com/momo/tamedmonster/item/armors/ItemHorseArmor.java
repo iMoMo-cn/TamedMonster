@@ -1,6 +1,6 @@
-package com.momo.fm.item.armors;
+package com.momo.tamedmonster.item.armors;
 
-import com.momo.fm.item.ItemBase;
+import com.momo.tamedmonster.item.ItemBase;
 import net.minecraft.entity.passive.HorseArmorType;
 import net.minecraft.item.ItemStack;
 

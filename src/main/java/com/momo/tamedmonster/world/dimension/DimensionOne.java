@@ -1,6 +1,6 @@
-package com.momo.fm.world.dimension;
+package com.momo.tamedmonster.world.dimension;
 
-import com.momo.fm.world.dimension.hexcube.ChunkGeneratorHexCube16;
+import com.momo.tamedmonster.world.dimension.hexcube.ChunkGeneratorHexCube16;
 import net.minecraft.world.DimensionType;
 import net.minecraft.world.WorldProvider;
 import net.minecraft.world.gen.IChunkGenerator;

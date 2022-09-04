@@ -1,6 +1,6 @@
-package com.momo.fm.world.types;
+package com.momo.tamedmonster.world.types;
 
-import com.momo.fm.world.types.layer.GenLayerCustom;
+import com.momo.tamedmonster.world.types.layer.GenLayerCustom;
 import net.minecraft.world.WorldType;
 import net.minecraft.world.gen.ChunkGeneratorSettings;
 import net.minecraft.world.gen.layer.GenLayer;

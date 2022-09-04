@@ -1,8 +1,8 @@
-package com.momo.fm.util.NBTStrDef;
+package com.momo.tamedmonster.util.NBTStrDef;
 
 import javax.annotation.Nullable;
 
-import com.momo.fm.util.IDLNBT;
+import com.momo.tamedmonster.util.IDLNBT;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.player.EntityPlayer;

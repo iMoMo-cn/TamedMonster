@@ -1,8 +1,8 @@
-package com.momo.fm.blocks.blockBasic;
+package com.momo.tamedmonster.blocks.blockBasic;
 
-import com.momo.fm.blocks.BlockBase;
-import com.momo.fm.blocks.tileEntity.orbs.TileEntityNullifyOrb;
-import com.momo.fm.blocks.tileEntity.orbs.TileEntityNullifyOrbMor;
+import com.momo.tamedmonster.blocks.BlockBase;
+import com.momo.tamedmonster.blocks.tileEntity.orbs.TileEntityNullifyOrb;
+import com.momo.tamedmonster.blocks.tileEntity.orbs.TileEntityNullifyOrbMor;
 import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;

@@ -1,11 +1,8 @@
-package com.momo.fm.item;
+package com.momo.tamedmonster.item;
 
-import com.momo.fm.init.ModCreativeTab;
-import com.momo.fm.item.food.ItemFoodBase;
+import com.momo.tamedmonster.item.food.ItemFoodBase;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.init.MobEffects;
 import net.minecraft.item.*;
-import net.minecraft.potion.PotionEffect;
 
 import java.util.ArrayList;
 import java.util.List;

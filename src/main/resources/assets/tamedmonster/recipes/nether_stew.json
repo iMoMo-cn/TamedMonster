@@ -3,7 +3,7 @@
   "ingredients":
   [
     {
-      "item": "fm:nether_mixture"
+      "item": "tamedmonster:nether_mixture"
     },
     {
       "item": "minecraft:bowl"
@@ -13,7 +13,7 @@
     }
   ],
   "result": {
-    "item": "fm:nether_stew",
+    "item": "tamedmonster:nether_stew",
     "count": 1
   }
 }
