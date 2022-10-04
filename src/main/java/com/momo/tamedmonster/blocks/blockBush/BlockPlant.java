@@ -19,7 +19,7 @@ public class BlockPlant extends BlockBase{
 
     public BlockPlant(String name, Material material)
     {
-        super(name, material);
+        super(name, material, material.getMaterialMapColor());
         setHardness(0.0F);
         setLightOpacity(0);
         this.blockSoundType = SoundType.PLANT;

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "tamedmonster:string_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:string",
+    "count": 9
+  }
+}

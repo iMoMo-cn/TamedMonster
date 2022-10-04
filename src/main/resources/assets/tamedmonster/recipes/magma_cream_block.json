@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "tamedmonster:magma_cream_block",
+    "count": 1
+  }
+}

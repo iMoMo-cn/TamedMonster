@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tamedmonster:blocks/gunpowder_block_bottom",
+    "up": "tamedmonster:blocks/gunpowder_block_top",
+    "north": "tamedmonster:blocks/gunpowder_block_side",
+    "south": "tamedmonster:blocks/gunpowder_block_side",
+    "west": "tamedmonster:blocks/gunpowder_block_side",
+    "east": "tamedmonster:blocks/gunpowder_block_side"
+  }
+}

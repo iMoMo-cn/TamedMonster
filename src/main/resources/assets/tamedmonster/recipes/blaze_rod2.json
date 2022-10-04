@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "tamedmonster:blaze_net"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blaze_rod",
+    "count": 9
+  }
+}

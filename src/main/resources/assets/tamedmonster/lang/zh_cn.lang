@@ -1,4 +1,4 @@
-itemGroup.friendly_monster=友好怪物
+itemGroup.tamed_monster=驯化怪物
 
 item.monster_mixture.name=怪物混合物
 item.monster_stew.name=怪物煲
@@ -7,6 +7,8 @@ item.nether_mixture.name=下界混合物
 item.nether_stew.name=下界煲
 item.nether_stew.desc=§o吃完感觉怪怪的...
 item.monster_essence.name=怪物精粹
+item.arrow_bundle.name=箭捆
+item.huge_spider_eye.name=巨大蛛眼
 
 entity.zombie_fm.name=驯化僵尸
 entity.skeleton_fm.name=驯化骷髅
@@ -22,6 +24,15 @@ entity.wither_skeleton_fm.name=驯化凋零骷髅
 entity.zombie_pigman_fm.name=驯化僵尸猪人
 entity.magma_cube_fm.name=驯化岩浆怪
 entity.blaze_fm.name=驯化烈焰人
+
+tile.rotten_block.name=腐肉块
+tile.gunpowder_block.name=火药块
+tile.string_block.name=线球
+tile.skeleton_block.name=骸骨块
+tile.blaze_net.name=烈焰棒块
+tile.blaze_block.name=烈焰块
+tile.magma_cream_block.name=岩浆膏块
+tile.ender_pearl_block.name=末影珍珠块
 
 effect.taming=驯化
 effect.monster_taming=怪物驯化

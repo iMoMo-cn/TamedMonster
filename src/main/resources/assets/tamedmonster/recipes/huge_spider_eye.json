@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "item": "tamedmonster:huge_spider_eye",
+    "count": 1
+  }
+}

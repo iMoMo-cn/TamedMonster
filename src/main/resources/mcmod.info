@@ -1,7 +1,7 @@
 [
 {
-  "modid": "fm",
-  "name": "FriendlyMonsters",
+  "modid": "tamedmonster",
+  "name": "TamedMonster",
   "description": "Afraid to battle? Refine poisons to tame monsters and let them produce materials for you.",
   "version": "1.0.0",
   "mcversion": "1.12.2",

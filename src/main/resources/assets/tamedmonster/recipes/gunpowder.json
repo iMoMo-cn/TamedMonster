@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "tamedmonster:gunpowder_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 9
+  }
+}

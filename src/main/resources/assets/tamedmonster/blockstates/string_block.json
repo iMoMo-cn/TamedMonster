@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up":    { "model": "tamedmonster:string_block"},
+    "facing=down":  { "model": "tamedmonster:string_block", "x": 180 },
+    "facing=east":  { "model": "tamedmonster:string_block", "x": 90, "y": 90 },
+    "facing=west":  { "model": "tamedmonster:string_block", "x": 90, "y": 270 },
+    "facing=south": { "model": "tamedmonster:string_block", "x": 90, "y": 180 },
+    "facing=north": { "model": "tamedmonster:string_block", "x": 90, "y": 0 }
+  }
+}

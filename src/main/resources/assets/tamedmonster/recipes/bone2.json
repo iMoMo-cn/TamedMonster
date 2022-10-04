@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "tamedmonster:skeleton_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bone",
+    "count": 9
+  }
+}

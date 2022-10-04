@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "tamedmonster:blocks/string_block_top",
+    "side": "tamedmonster:blocks/string_block_side",
+    "bottom": "tamedmonster:blocks/string_block_top"
+  }
+}

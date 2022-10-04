@@ -1,6 +1,6 @@
 #creativeTab
 #itemGroup.tab_name=Tab Name
-itemGroup.friendly_monster=Friendly Monster
+itemGroup.tamed_monster=Tamed Monster
 
 
 #item
@@ -14,6 +14,8 @@ item.nether_mixture.name=Nether Mixture
 item.nether_stew.name=Nether Stew
 item.nether_stew.desc=§oIt feels strange after eating...
 item.monster_essence.name=Monster Essence
+item.arrow_bundle.name=Arrow Bundle
+item.huge_spider_eye.name=Huge Spider Eye
 
 
 #entity
@@ -36,6 +38,14 @@ entity.blaze_fm.name=Tamed Blaze
 
 #block
 #tile.block_name.name=block name
+tile.rotten_block.name=Rotten Block
+tile.gunpowder_block.name=Gunpowder Block
+tile.string_block.name=String Ball
+tile.skeleton_block.name=Skeleton Block
+tile.blaze_net.name=Blaze Rod Block
+tile.blaze_block.name=Blaze Block
+tile.magma_cream_block.name=Magama Cream Block
+tile.ender_pearl_block.name=Ender Pearl Block
 
 #effect
 #effect.effect_name=effect name

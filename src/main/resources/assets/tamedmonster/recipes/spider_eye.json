@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "tamedmonster:huge_spider_eye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spider_eye",
+    "count": 9
+  }
+}

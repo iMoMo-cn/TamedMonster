@@ -24,7 +24,7 @@ import org.apache.logging.log4j.Logger;
 @Mod(modid = MoMoFramework.MODID, name = MoMoFramework.NAME, version = MoMoFramework.VERSION)//dependencies = "required-after:Forge@[14.23.5.2705,)"
 public class MoMoFramework {
     public static final String MODID = "tamedmonster";
-    public static final String NAME = "FriendlyMonsters";
+    public static final String NAME = "TamedMonster";
     public static final String VERSION = "1.0.0";
 
     public static Logger logger;
