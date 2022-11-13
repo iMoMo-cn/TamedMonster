@@ -24,8 +24,8 @@ public class ModBlocks {
 	public static final Block GUNPOWDER_BLOCK = new BlockPowder("gunpowder_block", Material.SAND).setHardness(1.0F);
 	public static final Block STRING_BLOCK = new BlockString("string_block").setHardness(0.8F);
 
-	public static final Block BLAZE_BLOCK = new BlockBlaze("blaze_block", 24000, Material.ROCK, MapColor.YELLOW).setHardness(2.0F);
-	public static final Block BLAZE_NET = new BlockBlaze("blaze_net", 12000, Material.ROCK, MapColor.YELLOW).setHardness(2.0F);
+	public static final Block BLAZE_BLOCK = new BlockBlaze("blaze_block", 12000, Material.ROCK, MapColor.YELLOW).setHardness(2.0F);
+	public static final Block BLAZE_NET = new BlockBlaze("blaze_net", 24000, Material.ROCK, MapColor.YELLOW).setHardness(2.0F);
 	public static final Block MAGMA_CREAM_BLOCK = new BlockMagmaCream("magma_cream_block").setHardness(0.1F);
 
 	public static final Block ENDER_PEARL_BLOCK = new BlockRock("ender_pearl_block", Material.ROCK, MapColor.LIME).setHardness(1.5F).setResistance(10.0F);
